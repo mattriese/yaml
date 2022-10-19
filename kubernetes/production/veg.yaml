@@ -1,0 +1,31 @@
+metadata:
+  name: "sdf"
+  namespace: "sfgsdfv"
+spec:
+  releaseName: "aertgv"
+  chart:
+    spec:
+      chart: gre
+      sourceRef:
+        kind: Hsdvsdfv
+        name: sdfvsd
+        namespace: adfbsdfvdf
+      version: "45454"
+  interval: 1h0m0s
+  timeout: 15m
+  install:
+    remediation:
+      retries: 3
+  values:
+    environment: production
+    glb:
+      image:
+        repository: asfvafbgadfgsdfgsdfg
+        tag: v1.0.95
+      serviceAccount:
+        annotations:
+          # Iasdfvasdv
+          eks.amazonaws.com/role-arn: "asdgafbasdva"
+      ingress:
+        # asdbdfbsdfb
+        hostName: "asfvasdvasd"
